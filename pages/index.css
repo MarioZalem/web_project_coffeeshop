@@ -180,10 +180,10 @@
   background-size: cover;
   display: flex;
   flex-direction: column;
+  padding: 100px 0 120px 0;
 }
 
 .reservation__title {
-  padding-top: 100px;
   margin: 0 auto 80px;
   font-family: Inter;
   font-style: normal;
